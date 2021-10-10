@@ -36,3 +36,5 @@ The vulnerability report must contain the following sections:
         Include screenshots of the vulnerability assessment process, tools, and actions made during the vulnerability validation.
         
 # Additional Information regarding OWASP Juice Shop
+The web-application is an Open Source MIT licensed intentionally vulnerable web application designed to challenge and instruct those interested in web-application testing. The application includes a Capture-the-flag component and a scoring system, however it is not necessary to complete the capture-the-flag component or achieve a certain score for this project.
+
