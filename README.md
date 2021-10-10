@@ -1,7 +1,7 @@
 # Juice shop vulnerabilities report
 
 # Project Instructions
-Our task is to complete a vulnerability assessment according to our organization’s Vulnerable Assessment standards.t is important to note that the report must account for audiences of
+Our task is to complete a vulnerability assessment according to our organization’s Vulnerable Assessment standards.It is important to note that the report must account for audiences of
 multiple technical levels, including management, supervisors, and practitioners. Generally speaking, the first section of the report is a summary appropriate for management. As the
 report continues, it becomes more technical, with the final sections intended for the Development Team, who will be responsible for remediation efforts.
 The vulnerability report must contain the following sections:
